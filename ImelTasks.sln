@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "imeltasks.client", "imeltasks.client\imeltasks.client.esproj", "{36C53806-955E-78CD-3D04-EF8D3B5D4278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImelTasks.Server", "ImelTasks.Server\ImelTasks.Server.csproj", "{75588B9D-054E-4432-AED7-167E70E0CE1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36C53806-955E-78CD-3D04-EF8D3B5D4278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36C53806-955E-78CD-3D04-EF8D3B5D4278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36C53806-955E-78CD-3D04-EF8D3B5D4278}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{36C53806-955E-78CD-3D04-EF8D3B5D4278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36C53806-955E-78CD-3D04-EF8D3B5D4278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36C53806-955E-78CD-3D04-EF8D3B5D4278}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{75588B9D-054E-4432-AED7-167E70E0CE1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75588B9D-054E-4432-AED7-167E70E0CE1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75588B9D-054E-4432-AED7-167E70E0CE1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75588B9D-054E-4432-AED7-167E70E0CE1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B013F34-4469-40A5-90E6-CBDE19C1D820}
+	EndGlobalSection
+EndGlobal

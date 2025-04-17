@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\38760\\Desktop\\ImelTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\models\\usercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\models\\usercreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\data\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\data\\exporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\models\\userversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\models\\userversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\services\\versioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\services\\versioningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__ProjectModels/Imel/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\services\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\controllers\\imelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\controllers\\imelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\models\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Migrations\\20250409183813_AddMissingUserColumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImelTasks.Server\\Migrations\\20250409183813_AddMissingUserColumns.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Data\\Migrations\\20250409183218_Initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImelTasks.Server\\Data\\Migrations\\20250409183218_Initiale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|c:\\users\\38760\\desktop\\imeltasks\\imeltasks.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{75588B9D-054E-4432-AED7-167E70E0CE1B}|ImelTasks.Server\\ImelTasks.Server.csproj|solutionrelative:imeltasks.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Data\\Migrations\\20250407192054_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ImelTasks.Server\\Data\\Migrations\\20250407192054_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserCreate.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Models\\UserCreate.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Models\\UserCreate.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Models\\UserCreate.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Models\\UserCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:23:45.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Data\\ExportHelper.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Data\\ExportHelper.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Data\\ExportHelper.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Data\\ExportHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T17:55:13.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VersioningService.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Services\\VersioningService.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Services\\VersioningService.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Services\\VersioningService.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Services\\VersioningService.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAwwEEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:47:51.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserVersion.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Models\\UserVersion.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Models\\UserVersion.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Models\\UserVersion.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Models\\UserVersion.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAUwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-12T18:46:27.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Program.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Program.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Program.cs",
+              "ViewState": "AgIAAFsAAAAAAAAAAAAAAGgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:10:19.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Models\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:05:55.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Services\\TokenService.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Services\\TokenService.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Services\\TokenService.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Services\\TokenService.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T19:06:17.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "dbo.AspNetUsers.sql",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Imel/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__ProjectModels/Imel/True/SqlTable/dbo.AspNetUsers.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-11T08:02:27.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ImelController.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Controllers\\ImelController.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Controllers\\ImelController.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Controllers\\ImelController.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Controllers\\ImelController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:47:11.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Models\\Login.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Models\\Login.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Models\\Login.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Models\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T18:02:34.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250409183813_AddMissingUserColumns.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Migrations\\20250409183813_AddMissingUserColumns.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Migrations\\20250409183813_AddMissingUserColumns.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Migrations\\20250409183813_AddMissingUserColumns.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Migrations\\20250409183813_AddMissingUserColumns.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:38:13.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250409183218_Initiale.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Data\\Migrations\\20250409183218_Initiale.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Data\\Migrations\\20250409183218_Initiale.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Data\\Migrations\\20250409183218_Initiale.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Data\\Migrations\\20250409183218_Initiale.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T18:32:20.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250407192054_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Data\\Migrations\\20250407192054_Initial.cs",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\Data\\Migrations\\20250407192054_Initial.cs",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\Data\\Migrations\\20250407192054_Initial.cs",
+              "RelativeToolTip": "ImelTasks.Server\\Data\\Migrations\\20250407192054_Initial.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T19:20:54.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "ImelTasks.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\38760\\Desktop\\ImelTasks\\ImelTasks.Server\\appsettings.json",
+              "RelativeToolTip": "ImelTasks.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-09T12:58:30.821Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

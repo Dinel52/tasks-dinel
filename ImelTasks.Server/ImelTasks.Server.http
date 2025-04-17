@@ -1,0 +1,6 @@
+@ImelTasks.Server_HostAddress = http://localhost:5073
+
+GET {{ImelTasks.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

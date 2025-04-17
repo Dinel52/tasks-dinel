@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ImelTasks.Server.props" />
+</Project>
